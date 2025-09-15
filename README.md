@@ -4,7 +4,7 @@
 
 ❓ Question (KPI)
 
-- To monitor the availability and condition of ICT hardware at JHEAINS.
+- To monitor the availability and condition of ICT hardware at Jabatan A.
 - To track hardware replacement and upgrade needs.
 - To visualize hardware distribution across departments.
 
